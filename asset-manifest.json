@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-greetings/static/css/main.74a29a54.css",
+    "main.js": "/digital-greetings/static/js/main.882fbec8.js",
+    "index.html": "/digital-greetings/index.html",
+    "main.74a29a54.css.map": "/digital-greetings/static/css/main.74a29a54.css.map",
+    "main.882fbec8.js.map": "/digital-greetings/static/js/main.882fbec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74a29a54.css",
+    "static/js/main.882fbec8.js"
+  ]
+}
